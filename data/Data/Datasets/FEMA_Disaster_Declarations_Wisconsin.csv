@@ -1,0 +1,1062 @@
+disasterNumber,programTypeCode,programTypeDescription,stateCode,stateName,placeCode,placeName,designatedDate,placeName,4520,4477,4459,4402,4383,4343,4288,4276,4141,4076,1966,1944,1933,1768,1719,1526,1432,1429,1369,1332,1284,1238,1236,1180,1131,994,964,963,959,912,877,874,775,770,710,626,559,496,482,431,376,352,264,260,192,Total Disaster Declarations
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2021-08-05T00:00:00.000Z,Adams (County),1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,2,0,2,1,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2021-08-05T00:00:00.000Z,Ashland (County),1,0,0,0,2,0,0,2,2,2,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,20
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99005,Barron (County),2021-08-05T00:00:00.000Z,Barron (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),2021-08-05T00:00:00.000Z,Bayfield (County),1,0,0,0,2,0,0,2,2,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99009,Brown (County),2021-08-05T00:00:00.000Z,Brown (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,7
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99011,Buffalo (County),2021-08-05T00:00:00.000Z,Buffalo (County),1,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,2,2,22
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99013,Burnett (County),2021-08-05T00:00:00.000Z,Burnett (County),1,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99015,Calumet (County),2021-08-05T00:00:00.000Z,Calumet (County),1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,14
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99017,Chippewa (County),2021-08-05T00:00:00.000Z,Chippewa (County),1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,12
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2021-08-05T00:00:00.000Z,Clark (County),1,0,2,0,2,0,2,0,0,0,0,2,0,0,0,2,2,2,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99021,Columbia (County),2021-08-05T00:00:00.000Z,Columbia (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,13
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2021-08-05T00:00:00.000Z,Crawford (County),1,0,0,2,0,2,2,0,2,0,0,0,0,2,2,2,0,0,2,3,0,0,1,0,0,2,2,0,0,0,0,2,0,0,0,0,2,2,0,0,2,0,0,2,2,37
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2021-08-05T00:00:00.000Z,Dane (County),1,0,0,2,0,0,0,0,0,0,2,0,0,2,1,1,0,0,0,3,0,0,0,0,0,2,0,1,0,1,0,2,0,0,1,0,2,2,0,0,0,0,0,0,0,23
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99027,Dodge (County),2021-08-05T00:00:00.000Z,Dodge (County),1,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,2,0,0,0,0,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99029,Door (County),2021-08-05T00:00:00.000Z,Door (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99031,Douglas (County),2021-08-05T00:00:00.000Z,Douglas (County),1,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,13
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99033,Dunn (County),2021-08-05T00:00:00.000Z,Dunn (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,2,17
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99035,Eau Claire (County),2021-08-05T00:00:00.000Z,Eau Claire (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,10
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99037,Florence (County),2021-08-05T00:00:00.000Z,Florence (County),1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99039,Fond du Lac (County),2021-08-05T00:00:00.000Z,Fond du Lac (County),1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,2,0,2,0,0,0,0,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99041,Forest (County),2021-08-05T00:00:00.000Z,Forest (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2021-08-05T00:00:00.000Z,Grant (County),1,0,0,0,0,2,0,0,2,0,2,0,2,2,1,2,0,0,2,3,0,0,1,0,0,2,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,2,2,32
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2021-08-05T00:00:00.000Z,Green (County),1,0,0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,20
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99047,Green Lake (County),2021-08-05T00:00:00.000Z,Green Lake (County),1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2021-08-05T00:00:00.000Z,Iowa (County),1,0,0,0,0,2,0,0,2,0,2,0,0,2,1,1,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,2,0,0,2,0,2,2,0,0,0,0,0,0,0,24
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99051,Iron (County),2021-08-05T00:00:00.000Z,Iron (County),1,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2021-08-05T00:00:00.000Z,Jackson (County),1,0,0,0,0,2,2,0,0,0,0,2,0,0,0,2,0,0,1,2,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99055,Jefferson (County),2021-08-05T00:00:00.000Z,Jefferson (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0,0,2,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2021-08-05T00:00:00.000Z,Juneau (County),1,0,0,2,0,0,2,0,0,0,0,2,0,2,0,2,0,0,1,3,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,23
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2021-08-05T00:00:00.000Z,Kenosha (County),1,2,0,0,0,0,0,0,0,0,2,0,0,2,1,2,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,18
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99061,Kewaunee (County),2021-08-05T00:00:00.000Z,Kewaunee (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,5
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2021-08-05T00:00:00.000Z,La Crosse (County),1,0,2,2,0,2,2,0,0,0,0,0,0,2,2,1,0,0,2,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,2,2,27
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2021-08-05T00:00:00.000Z,Lafayette (County),1,0,0,0,0,2,0,0,0,0,2,0,0,2,0,1,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,21
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99067,Langlade (County),2021-08-05T00:00:00.000Z,Langlade (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,9
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99069,Lincoln (County),2021-08-05T00:00:00.000Z,Lincoln (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,8
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99071,Manitowoc (County),2021-08-05T00:00:00.000Z,Manitowoc (County),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,2,0,0,0,0,7
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99073,Marathon (County),2021-08-05T00:00:00.000Z,Marathon (County),1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,13
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99075,Marinette (County),2021-08-05T00:00:00.000Z,Marinette (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99077,Marquette (County),2021-08-05T00:00:00.000Z,Marquette (County),1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99078,Menominee (County),2021-08-05T00:00:00.000Z,Menominee (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2021-08-05T00:00:00.000Z,Milwaukee (County),1,2,0,0,0,0,0,0,0,0,2,0,2,2,0,1,0,0,0,3,0,2,0,2,0,2,0,0,0,0,0,0,1,2,0,0,0,2,0,0,2,0,2,0,0,28
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2021-08-05T00:00:00.000Z,Monroe (County),1,0,2,2,0,2,2,0,0,0,0,0,0,2,0,2,0,0,0,2,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,20
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99083,Oconto (County),2021-08-05T00:00:00.000Z,Oconto (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99085,Oneida (County),2021-08-05T00:00:00.000Z,Oneida (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99087,Outagamie (County),2021-08-05T00:00:00.000Z,Outagamie (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,12
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99089,Ozaukee (County),2021-08-05T00:00:00.000Z,Ozaukee (County),1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,2,0,0,0,2,17
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99091,Pepin (County),2021-08-05T00:00:00.000Z,Pepin (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,2,2,18
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99093,Pierce (County),2021-08-05T00:00:00.000Z,Pierce (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,2,2,18
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99095,Polk (County),2021-08-05T00:00:00.000Z,Polk (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2021-08-05T00:00:00.000Z,Portage (County),1,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1,2,2,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99099,Price (County),2021-08-05T00:00:00.000Z,Price (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2021-08-05T00:00:00.000Z,Racine (County),1,2,0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,17
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2021-08-05T00:00:00.000Z,Richland (County),1,0,0,2,0,2,2,0,2,0,0,0,0,2,2,1,0,0,0,3,0,0,1,0,0,1,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,2,29
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99105,Rock (County),2021-08-05T00:00:00.000Z,Rock (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,2,0,0,2,0,0,0,0,17
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99107,Rusk (County),2021-08-05T00:00:00.000Z,Rusk (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99109,St. Croix (County),2021-08-05T00:00:00.000Z,St. Croix (County),1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,14
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2021-08-05T00:00:00.000Z,Sauk (County),1,0,0,2,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,3,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,0,21
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99113,Sawyer (County),2021-08-05T00:00:00.000Z,Sawyer (County),1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99115,Shawano (County),2021-08-05T00:00:00.000Z,Shawano (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99117,Sheboygan (County),2021-08-05T00:00:00.000Z,Sheboygan (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,2,0,0,0,0,13
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99119,Taylor (County),2021-08-05T00:00:00.000Z,Taylor (County),1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99121,Trempealeau (County),2021-08-05T00:00:00.000Z,Trempealeau (County),1,0,0,0,0,2,0,0,0,0,0,2,0,0,0,1,0,0,2,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,2,2,21
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2021-08-05T00:00:00.000Z,Vernon (County),1,0,2,2,0,2,2,0,2,0,0,0,0,2,2,2,0,0,2,3,0,0,1,0,0,2,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,0,2,2,37
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99125,Vilas (County),2021-08-05T00:00:00.000Z,Vilas (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99127,Walworth (County),2021-08-05T00:00:00.000Z,Walworth (County),1,0,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,2,15
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99129,Washburn (County),2021-08-05T00:00:00.000Z,Washburn (County),1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99131,Washington (County),2021-08-05T00:00:00.000Z,Washington (County),1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99133,Waukesha (County),2021-08-05T00:00:00.000Z,Waukesha (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,2,0,2,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,2,0,2,0,0,18
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99135,Waupaca (County),2021-08-05T00:00:00.000Z,Waupaca (County),1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99137,Waushara (County),2021-08-05T00:00:00.000Z,Waushara (County),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99139,Winnebago (County),2021-08-05T00:00:00.000Z,Winnebago (County),1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,11
+4520,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2021-08-05T00:00:00.000Z,Wood (County),1,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1,2,2,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,17
+4477,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2020-03-11T00:00:00.000Z,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4477,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2020-03-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4477,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2020-03-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4477,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2020-03-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4477,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2020-03-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4477,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),2020-03-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99075,Marinette (County),2019-10-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99075,Marinette (County),2019-10-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99005,Barron (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99041,Forest (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99067,Langlade (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99078,Menominee (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99083,Oconto (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99085,Oneida (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99087,Outagamie (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99095,Polk (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99107,Rusk (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99115,Shawano (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99135,Waupaca (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99005,Barron (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99041,Forest (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99067,Langlade (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99078,Menominee (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99083,Oconto (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99085,Oneida (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99087,Outagamie (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99095,Polk (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99115,Shawano (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99135,Waupaca (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4459,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),2019-08-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99039,Fond du Lac (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99047,Green Lake (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99051,Iron (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99077,Marquette (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99089,Ozaukee (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99047,Green Lake (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99077,Marquette (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4402,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2018-10-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99013,Burnett (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99031,Douglas (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99051,Iron (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99013,Burnett (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4383,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),2018-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99011,Buffalo (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99121,Trempealeau (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4343,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2017-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99017,Chippewa (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99017,Chippewa (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4288,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2016-10-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99013,Burnett (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99031,Douglas (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99037,Florence (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99051,Iron (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99113,Sawyer (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99129,Washburn (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99013,Burnett (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99037,Florence (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99113,Sawyer (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4276,PA,PA - Public Assistance,WI,Wisconsin                     ,99129,Washburn (County),2016-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99109,St. Croix (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4141,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2013-08-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99031,Douglas (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+4076,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),2012-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2011-05-03T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),2011-05-03T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99027,Dodge (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99127,Walworth (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1966,PA,PA - Public Assistance,WI,Wisconsin                     ,99131,Washington (County),2011-04-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99011,Buffalo (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99073,Marathon (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99119,Taylor (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99121,Trempealeau (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99073,Marathon (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99119,Taylor (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1944,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),2010-10-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99015,Calumet (County),2010-09-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),2010-09-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2010-08-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2010-08-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2010-08-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1933,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2010-08-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),2008-08-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),2008-07-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2008-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99047,Green Lake (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99077,Marquette (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99131,Washington (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),2008-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99071,Manitowoc (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99021,Columbia (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,PA,PA - Public Assistance,WI,Wisconsin                     ,99139,Winnebago (County),2008-06-27T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99015,Calumet (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99047,Green Lake (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99055,Jefferson (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99127,Walworth (County),2008-06-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2008-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2008-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99089,Ozaukee (County),2008-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99039,Fond du Lac (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99077,Marquette (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99105,Rock (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99117,Sheboygan (County),2008-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99027,Dodge (County),2008-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2008-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99131,Washington (County),2008-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99133,Waukesha (County),2008-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99139,Winnebago (County),2008-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2008-06-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2008-06-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99021,Columbia (County),2008-06-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2008-06-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2008-06-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2008-06-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1768,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2008-06-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99021,Columbia (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99055,Jefferson (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99105,Rock (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2007-09-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2007-08-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2007-08-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2007-08-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2007-08-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1719,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2007-08-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99009,Brown (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99015,Calumet (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99017,Chippewa (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99035,Eau Claire (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99063,La Crosse (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99073,Marathon (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99077,Marquette (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99087,Outagamie (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99101,Racine (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99105,Rock (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99115,Shawano (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99117,Sheboygan (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99119,Taylor (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99121,Trempealeau (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99127,Walworth (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99131,Washington (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99133,Waukesha (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99135,Waupaca (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99137,Waushara (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99077,Marquette (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2004-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2004-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2004-06-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99021,Columbia (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99027,Dodge (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99039,Fond du Lac (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99047,Green Lake (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99055,Jefferson (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99089,Ozaukee (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99139,Winnebago (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99021,Columbia (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99047,Green Lake (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1526,PA,PA - Public Assistance,WI,Wisconsin                     ,99139,Winnebago (County),2004-06-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99005,Barron (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99013,Burnett (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99017,Chippewa (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99033,Dunn (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99067,Langlade (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99069,Lincoln (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99073,Marathon (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99095,Polk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99099,Price (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99107,Rusk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99109,St. Croix (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99113,Sawyer (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99115,Shawano (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99119,Taylor (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99129,Washburn (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99135,Waupaca (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99005,Barron (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99013,Burnett (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99017,Chippewa (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99019,Clark (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99067,Langlade (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99069,Lincoln (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99073,Marathon (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99095,Polk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99097,Portage (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99099,Price (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99107,Rusk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99109,St. Croix (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99113,Sawyer (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99115,Shawano (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99119,Taylor (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99129,Washburn (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99135,Waupaca (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,IA,IA - Individual Assistance,WI,Wisconsin                     ,99141,Wood (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,PA,PA - Public Assistance,WI,Wisconsin                     ,99095,Polk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1432,PA,PA - Public Assistance,WI,Wisconsin                     ,99119,Taylor (County),2002-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99019,Clark (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99033,Dunn (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99073,Marathon (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99075,Marinette (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99097,Portage (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99137,Waushara (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99141,Wood (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99073,Marathon (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99075,Marinette (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99137,Waushara (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1429,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),2002-07-19T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99005,Barron (County),2001-07-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),2001-07-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99017,Chippewa (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99119,Taylor (County),2001-07-05T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99015,Calumet (County),2001-06-28T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99107,Rusk (County),2001-06-28T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99087,Outagamie (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99139,Winnebago (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99087,Outagamie (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99135,Waupaca (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99137,Waushara (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99139,Winnebago (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),2001-06-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2001-06-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99129,Washburn (County),2001-05-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99013,Burnett (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99031,Douglas (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99109,St. Croix (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99005,Barron (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99013,Burnett (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99095,Polk (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1369,PA,PA - Public Assistance,WI,Wisconsin                     ,99129,Washburn (County),2001-05-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),2000-08-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99027,Dodge (County),2000-08-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),2000-08-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99057,Juneau (County),2000-08-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99021,Columbia (County),2000-07-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),2000-07-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),2000-07-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99101,Racine (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99005,Barron (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99013,Burnett (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99041,Forest (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99085,Oneida (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99095,Polk (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99113,Sawyer (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99129,Washburn (County),2000-07-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99079,Milwaukee (County),2000-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2000-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,IA,IA - Individual Assistance,WI,Wisconsin                     ,99127,Walworth (County),2000-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99021,Columbia (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99053,Jackson (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99059,Kenosha (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99127,Walworth (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99021,Columbia (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),2000-06-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99001,Adams (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99023,Crawford (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99025,Dane (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99043,Grant (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99045,Green (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99049,Iowa (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99057,Juneau (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99065,Lafayette (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99081,Monroe (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99103,Richland (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99111,Sauk (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99123,Vernon (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1332,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),2000-06-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99003,Ashland (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99007,Bayfield (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99031,Douglas (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99037,Florence (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99051,Iron (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99085,Oneida (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99099,Price (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99107,Rusk (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99113,Sawyer (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,HM,HM - Hazard Mitigation,WI,Wisconsin                     ,99125,Vilas (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99037,Florence (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99085,Oneida (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99099,Price (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99113,Sawyer (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1284,PA,PA - Public Assistance,WI,Wisconsin                     ,99125,Vilas (County),1999-08-16T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,IA,IA - Individual Assistance,WI,Wisconsin                     ,99101,Racine (County),1998-08-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1998-08-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1998-08-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1998-08-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,PA,PA - Public Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1998-08-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1998-08-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1998-08-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1998-08-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,IA,IA - Individual Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1998-08-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1238,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1998-08-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1236,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1998-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,PA,PA - Public Assistance,WI,Wisconsin                     ,99131,Washington (County),1997-07-28T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,IA,IA - Individual Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,IA,IA - Individual Assistance,WI,Wisconsin                     ,99131,Washington (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1180,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1997-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1131,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1996-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1131,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1996-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99009,Brown (County),1993-09-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99078,Menominee (County),1993-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99115,Shawano (County),1993-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99078,Menominee (County),1993-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1993-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99115,Shawano (County),1993-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99081,Monroe (County),1993-08-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1993-08-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1993-07-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),1993-07-28T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1993-07-22T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99027,Dodge (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99059,Kenosha (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99101,Racine (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99099,Price (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99135,Waupaca (County),1993-07-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99001,Adams (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99017,Chippewa (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99045,Green (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99057,Juneau (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99069,Lincoln (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99073,Marathon (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99099,Price (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99107,Rusk (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99001,Adams (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99021,Columbia (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99137,Waushara (County),1993-07-08T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99015,Calumet (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99019,Clark (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99021,Columbia (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99047,Green Lake (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99053,Jackson (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99077,Marquette (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99097,Portage (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99135,Waupaca (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99137,Waushara (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99139,Winnebago (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,IA,IA - Individual Assistance,WI,Wisconsin                     ,99141,Wood (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99047,Green Lake (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99077,Marquette (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+994,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1993-07-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99053,Jackson (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99057,Juneau (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99053,Jackson (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+964,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1992-09-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+963,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1992-09-18T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+959,IA,IA - Individual Assistance,WI,Wisconsin                     ,99137,Waushara (County),1992-09-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+959,PA,PA - Public Assistance,WI,Wisconsin                     ,99137,Waushara (County),1992-09-02T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+912,PA,PA - Public Assistance,WI,Wisconsin                     ,99131,Washington (County),1991-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+912,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1991-08-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+912,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1991-08-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+912,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1991-08-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+912,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1991-08-06T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+877,IA,IA - Individual Assistance,WI,Wisconsin                     ,99081,Monroe (County),1990-08-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99071,Manitowoc (County),1990-08-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99139,Winnebago (County),1990-08-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1990-07-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1990-07-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99045,Green (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99057,Juneau (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),1990-07-17T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99009,Brown (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99015,Calumet (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99061,Kewaunee (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99009,Brown (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99061,Kewaunee (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+874,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1990-07-13T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99027,Dodge (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99059,Kenosha (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99131,Washington (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+775,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1986-10-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+770,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1986-08-20T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+770,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1986-08-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+770,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1986-08-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+710,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),1984-06-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+710,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),1984-06-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+710,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),1984-06-12T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,IA,IA - Individual Assistance,WI,Wisconsin                     ,99017,Chippewa (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,IA,IA - Individual Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,PA,PA - Public Assistance,WI,Wisconsin                     ,99017,Chippewa (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,PA,PA - Public Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+626,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1980-07-24T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99045,Green (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99057,Juneau (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99081,Monroe (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99057,Juneau (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99081,Monroe (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+559,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1978-07-07T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99015,Calumet (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99021,Columbia (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99025,Dane (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99027,Dodge (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99045,Green (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99049,Iowa (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99071,Manitowoc (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99111,Sauk (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99127,Walworth (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99131,Washington (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99015,Calumet (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99021,Columbia (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99025,Dane (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99049,Iowa (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99071,Manitowoc (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99111,Sauk (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99131,Washington (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+496,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1976-03-23T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+482,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1975-09-15T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,IA,IA - Individual Assistance,WI,Wisconsin                     ,99027,Dodge (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,IA,IA - Individual Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,IA,IA - Individual Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,IA,IA - Individual Assistance,WI,Wisconsin                     ,99139,Winnebago (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,PA,PA - Public Assistance,WI,Wisconsin                     ,99027,Dodge (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,PA,PA - Public Assistance,WI,Wisconsin                     ,99039,Fond du Lac (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,PA,PA - Public Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+431,PA,PA - Public Assistance,WI,Wisconsin                     ,99139,Winnebago (County),1974-04-26T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1973-07-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99117,Sheboygan (County),1973-07-25T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1973-06-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99097,Portage (County),1973-06-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1973-06-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99097,Portage (County),1973-06-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1973-05-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1973-05-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1973-05-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99087,Outagamie (County),1973-05-09T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99009,Brown (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99017,Chippewa (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99019,Clark (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99029,Door (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99047,Green Lake (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99059,Kenosha (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99061,Kewaunee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99067,Langlade (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99069,Lincoln (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99071,Manitowoc (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99073,Marathon (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99075,Marinette (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99077,Marquette (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99083,Oconto (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99101,Racine (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99105,Rock (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99107,Rusk (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99127,Walworth (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99135,Waupaca (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99137,Waushara (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,IA,IA - Individual Assistance,WI,Wisconsin                     ,99141,Wood (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99009,Brown (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99017,Chippewa (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99019,Clark (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99029,Door (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99047,Green Lake (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99059,Kenosha (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99061,Kewaunee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99067,Langlade (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99069,Lincoln (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99071,Manitowoc (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99073,Marathon (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99075,Marinette (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99077,Marquette (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99083,Oconto (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99105,Rock (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99107,Rusk (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99135,Waupaca (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99137,Waushara (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+376,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),1973-04-30T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,IA,IA - Individual Assistance,WI,Wisconsin                     ,99003,Ashland (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,IA,IA - Individual Assistance,WI,Wisconsin                     ,99007,Bayfield (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,IA,IA - Individual Assistance,WI,Wisconsin                     ,99051,Iron (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,PA,PA - Public Assistance,WI,Wisconsin                     ,99007,Bayfield (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),1972-09-14T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,IA,IA - Individual Assistance,WI,Wisconsin                     ,99031,Douglas (County),1972-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+352,PA,PA - Public Assistance,WI,Wisconsin                     ,99031,Douglas (County),1972-09-10T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99045,Green (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99101,Racine (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,IA,IA - Individual Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99045,Green (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99065,Lafayette (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99079,Milwaukee (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99101,Racine (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+264,PA,PA - Public Assistance,WI,Wisconsin                     ,99133,Waukesha (County),1969-07-11T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99003,Ashland (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99051,Iron (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99069,Lincoln (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,IA,IA - Individual Assistance,WI,Wisconsin                     ,99141,Wood (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99035,Eau Claire (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99051,Iron (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99069,Lincoln (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+260,PA,PA - Public Assistance,WI,Wisconsin                     ,99141,Wood (County),1969-05-01T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99003,Ashland (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99005,Barron (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99023,Crawford (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99033,Dunn (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99043,Grant (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99067,Langlade (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99073,Marathon (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99091,Pepin (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99093,Pierce (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99095,Polk (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99103,Richland (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99123,Vernon (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99127,Walworth (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,IA,IA - Individual Assistance,WI,Wisconsin                     ,99129,Washburn (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99003,Ashland (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99005,Barron (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99011,Buffalo (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99023,Crawford (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99033,Dunn (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99043,Grant (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99055,Jefferson (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99063,La Crosse (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99067,Langlade (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99073,Marathon (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99089,Ozaukee (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99091,Pepin (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99093,Pierce (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99095,Polk (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99103,Richland (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99109,St. Croix (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99121,Trempealeau (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99123,Vernon (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99127,Walworth (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+192,PA,PA - Public Assistance,WI,Wisconsin                     ,99129,Washburn (County),1965-04-21T00:00:00.000Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
