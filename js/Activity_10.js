@@ -26,11 +26,13 @@ function setMap() {
         .attr("height", height);
     //d3 projection with projection parameters  
     var projection = d3.geoAlbers()
-    .center([0, 45.5])               
-    .rotate([90, 0])                
-    .parallels([42.5, 46.5])         
-    .scale(4000)                     
-    .translate([width / 2, height / 2]);
+    .center([0, 44.83])         
+    .rotate([90, 0])           
+    .parallels([42.5, 46.5])   
+    .scale(6000)              
+    .translate([width / 2, height / 2]);  // Center map in SVG
+
+var path = d3.geoPath().projection(projection);
 
     //apply projection to spatial data
     var path = d3.geoPath()

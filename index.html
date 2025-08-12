@@ -1,28 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-            <title></title>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Wisconsin County Cell Phone Ownership</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="container">
+  <h2 class="mapChartTitle">Percent of Households With a Cell Phone in Each Wisconsin County</h2>
+<p>Emergency management requires an understanding of the characteristics of which make up communities. For example, the map below shows the percent of households with a cellular device, according to 2023 American Community Survey (ACS) data. When disasters are imminent or other alerts need to be communicated to the public, cellular alerts are a great way to reach people who need to be warned. Using the data below, we can see some counties have less households with a cellular device. This information may help a county emergency management office plan what other methods they can use to reach those populations without cellular devices. </p>  <!-- map and chart will be appended here by D3 -->
+</div>
 
-        <!--put your external stylesheet links here-->
-        <link rel="stylesheet" href="css/style.css">
-        <!--[if IE<9]>
-            <link rel="stylesheet" href="css/style.ie.css">
-        <![endif]-->
-
-         <!--you can also place internal styles here;
-             place these within <style> tags-->
-        
-    </head>
-
-    <body>
-        <div id="container"></div>
-        <script src="lib/d3/d3.v7.min.js"></script>
-        <script src="lib/topojson-master/topojson.js.js"></script>
-        <!--you can also use this space for internal scripts;
-        place these within <script> tags-->
-        <script type="text/javascript" src="js\Activity_10.js"></script> 
-        <!--put your external script links here-->
-    </body>
+  <script src="lib/d3/d3.v7.min.js"></script>
+  <script src="lib/topojson-master/topojson.js"></script>
+  <script src="js/main.js"></script>
+</body>
+  <footer>
+    <p><strong>Sources:</strong> U.S. Census Bureau, 2023 American Community Survey (ACS) 1-Year Estimates, D3.js, TopoJSON, WI DNR, Natural Earth  </p>
+    <p></strong> .</p>
+  </footer>
 </html>

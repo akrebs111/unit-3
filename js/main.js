@@ -1,15 +1,94 @@
 //Alex Krebs
-//Geog 575 Activity 10 Choropleth Map and Coordinated Visualization
-//Code creates a map and bar graph depicting percent households with a cell phone in each Wisconsin County
-//Will need to find a layer to add Canadian Provinces
-//Will need to adjust bar graph and map position to add explanatory text
-//Need to make minor color changes for graph labels
-
+//Geog 575 Lab 2
+//Create Choropelth map with bar chart.
+//Hover over counties to see popup information about households with cellphones and have responsive interaction with the chart
+//sources inclue D3, TopoJSON, 2023 ACS (US Census Bureau), Natural Earth and WI DNR
 
 //self executing anonymous function to local scope
 (function(){
 var attrArray = ["disaster_dec" ,"totpop","area_sq_miles", "pop_density", "at_risk_ben_z-score", "percent_at_risk_ben", "percent_households_with_cell_phone", "percent_over_65_living_alone", "percent_speak_english_less_than_well"];
 var expressed = "percent_households_with_cell_phone";
+
+//function to remove "_" from attribute names
+function formatClassName(name) {
+    return name.trim().toLowerCase().replace(/\s+/g, "_");
+}
+
+//function to add mouseover effect
+function mouseOver(d, isBar = true) {
+    const className = formatClassName(isBar ? d.County : d.properties.NAME);
+
+    d3.selectAll(`.bar.${className}`)
+        .style("stroke", "#000")
+        .style("stroke-width", 2)
+        .style("opacity", 1);
+
+    d3.selectAll(`.counties.${className}`)
+        .style("stroke", "#fff") 
+        .style("stroke-width", 2)
+        .style("opacity", 1);
+
+    const dataProps = isBar ? d : d.properties;
+    popUP.style("visibility", "visible")
+        .html(createPopupContent(dataProps, expressed));
+}
+//function to reset mouseover effect
+function mouseOut(d, isBar = true) {
+    const className = formatClassName(isBar ? d.County : d.properties.NAME);
+
+    d3.selectAll(`.bar.${className}`)
+        .style("stroke", null)
+        .style("stroke-width", null)
+        .style("opacity", 0.9);
+
+    d3.selectAll(`.counties.${className}`)
+        .style("stroke", null)
+        .style("stroke-width", null)
+        .style("opacity", 0.9);
+
+    popUP.style("visibility", "hidden");
+}
+//function to clean up field name for popup
+function formatAttributeName(attr) {
+    return attr
+        .replace(/_/g, " ")
+        .split(" ")
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ");
+}
+//function to create popups 
+function createPopupContent(properties, attribute) {
+    var value = properties[attribute];
+    var countyValue = parseFloat(value);
+    var countyName = (properties.NAME || properties.County || "Unknown")
+        .split(" ")
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ");
+
+    var allValues = d3.selectAll(".counties").data().map(d => d.properties[attribute]);
+    var meanValue = d3.mean(allValues);
+
+    var diff = countyValue - meanValue;
+
+    var comparisonText;
+    if (diff > 0) {
+        comparisonText = diff.toFixed(1) + "% above average";
+    } else if (diff < 0) {
+        comparisonText = Math.abs(diff).toFixed(1) + "% below average";
+    } else {
+        comparisonText = "equal to the average";
+    }
+
+    return `
+        <p><strong>${countyName} County</strong></p>
+        <p><b>${formatAttributeName(attribute)}:</b> ${countyValue.toFixed(1)}%</p>
+        <p><b>Compared to WI average:</b> ${comparisonText}</p> 
+    `;
+}
+//popup variable
+var popUP = d3.select("body").append("div")
+    .attr("class", "popUP");
+
 // Execute script when window is loaded
 window.onload = setMap;
 
@@ -18,23 +97,23 @@ function setMap() {
      //map frame dimensions
     var width = 700,
         height = 500;
-    //container for map
-     var map = d3.select("#container")
+
+    var map = d3.select("#container")
         .append("svg")
         .attr("class", "map")
-        .attr("width", width)
-        .attr("height", height);
+        .attr("viewBox", `0 0 ${width} ${height}`)
+        .style("width", "100%")
+        .style("height", "auto");
     //d3 projection with projection parameters  
     var projection = d3.geoAlbers()
-    .center([0, 45.5])               
-    .rotate([90, 0])                
-    .parallels([42.5, 46.5])         
-    .scale(4000)                     
-    .translate([width / 2, height / 2]);
+    .center([0, 44.83])         
+    .rotate([90, 0])           
+    .parallels([42.5, 46.5])   
+    .scale(6000)              
+    .translate([width / 2, height / 2]);  // Center map in SVG
 
-    //apply projection to spatial data
-    var path = d3.geoPath()
-        .projection(projection);
+var path = d3.geoPath().projection(projection);
+
 
     // Use Promise.all to parallelize asynchronous data loading
     var promises = [];
@@ -47,7 +126,7 @@ function setMap() {
     
 
         function callback(data) {
-            var csvData = data[0], wiCounty = data[1], us_States = data[2];      
+            var csvData = data[0], wiData = data[1], us_States = data[2];      
 
             //create graticule generator for background   
             var graticule = d3.geoGraticule();
@@ -59,7 +138,7 @@ function setMap() {
 
 
             // translate data TopoJSONs
-            var wiCounties = topojson.feature(wiCounty, wiCounty.objects.WI_Counties).features,
+            var wiCounties = topojson.feature(wiData, wiData.objects.WI_Counties).features,
                 usStates = topojson.feature(us_States, us_States.objects.cb_2018_us_state_5m).features;
 
             wiCounties = joinData(wiCounties, csvData);
@@ -72,11 +151,11 @@ function setMap() {
 //function to create coordinated bar chart
 function setChart(csvData, colorScale){
     //chart frame dimensions
-    var chartWidth = 700,
-        chartHeight = 500,
-        leftPadding = 25,
-        rightPadding = 10,
-        topBottomPadding = 5,
+    var chartWidth = 500,
+        chartHeight = 250,
+        leftPadding = 40,
+        rightPadding = 40,
+        topBottomPadding = 10,
         chartInnerWidth = chartWidth - leftPadding - rightPadding,
         chartInnerHeight = chartHeight - topBottomPadding * 2,
         translate = "translate(" + leftPadding + "," + topBottomPadding + ")";
@@ -84,9 +163,25 @@ function setChart(csvData, colorScale){
     //create a second svg element to hold the bar chart
     var chart = d3.select("#container")
         .append("svg")
-        .attr("width", chartWidth)
-        .attr("height", chartHeight)
-        .attr("class", "chart");
+        .attr("viewBox", `0 0 ${chartWidth} ${chartHeight}`)
+        .style("width", "100%")
+        .style("height", "auto")
+        .attr("class", "chart")
+
+    chart.append("text")
+        .attr("class", "axis-title")
+        .attr("text-anchor", "middle")
+        .attr("transform", `translate(${leftPadding / 4}, ${chartInnerHeight / 2 + topBottomPadding}) rotate(-90)`)
+        .style("font-size", "12px")
+        .text("Percent (%)");
+
+    // X-axis title (counties)
+    chart.append("text")
+        .attr("class", "axis-title")
+        .attr("text-anchor", "middle")
+        .attr("transform", `translate(${chartInnerWidth / 2 + leftPadding}, ${chartInnerHeight + topBottomPadding + 35})`)
+        .style("font-size", "12px")
+        .text("Wisconsin Counties");
 
     //create a rectangle for chart background fill
     var chartBackground = chart.append("rect")
@@ -100,7 +195,10 @@ function setChart(csvData, colorScale){
         .range([chartInnerHeight, 0])
         .domain([0, 100]);
 
-    //set bars for each province
+    //create vertical axis generator (added)
+    var yAxis = d3.axisLeft(yScale);
+
+    //set bars for each county
     var bars = chart.selectAll(".bar")
         .data(csvData)
         .enter()
@@ -109,36 +207,27 @@ function setChart(csvData, colorScale){
             return b[expressed]-a[expressed]
         })
         .attr("class", function(d){
-            return "bar " + d.adm1_code;
+            return "bar " + d.County.trim().toLowerCase().replace(/\s+/g, "_");
         })
         .attr("width", chartInnerWidth / csvData.length - 4)
         .attr("x", function(d, i){
             return i * (chartInnerWidth / csvData.length) + leftPadding;
         })
-        .attr("height", function(d, i){
+        .attr("height", function(d){
             return chartInnerHeight - yScale(parseFloat(d[expressed]));
         })
-        .attr("y", function(d, i){
+        .attr("y", function(d){
             return yScale(parseFloat(d[expressed])) + topBottomPadding;
         })
         .style("fill", function(d){
             return colorScale(d[expressed]);
+        })
+        .on("mouseover", function(event, d) {
+            mouseOver(d, true);
+        })
+        .on("mouseout", function(event, d) {
+            mouseOut(d, true);
         });
-
-    //create a text element for the chart title
-    var titleX = 40; // horizontal position, adjust as needed
-    var titleY = topBottomPadding; // top padding of the chart area
-    var titleYOffset = 15; // pixels above the top padding
-
-    var chartTitle = chart.append("text")
-        .attr("x", chartWidth / 2) // center horizontally
-        .attr("y", 20) // a safe, visible y-position
-        .attr("text-anchor", "middle") // center-align the text
-        .attr("class", "chartTitle")
-        .text("Percent of Households With a Cell Phone in Each Wisconsin County");
-    //create vertical axis generator
-    var yAxis = d3.axisLeft()
-        .scale(yScale);
 
     //place axis
     var axis = chart.append("g")
@@ -174,7 +263,7 @@ function makeColorScale(data){
     colorScale.domain(domainArray);
 
     return colorScale;
-}
+};
 function joinData(wiCounties, csvData){
     //loop through csv to assign each set of csv attribute values to geojson county
     for (var i=0; i<csvData.length; i++){
@@ -217,16 +306,28 @@ function setEnumerationUnits(wiCounties, usStates, map, path){
             .enter()
             .append("path")
             .attr("class", function(d){
-                    return "counties " + d.properties.NAME;
-            })        
+                return "counties " + d.properties.NAME.trim().toLowerCase().replace(/\s+/g, "_");
+            })       
             .attr("d", path)        
-                .style("fill", function(d){            
-                    var value = d.properties[expressed];            
-                    if(value) {                
-                        return colorScale(d.properties[expressed]);            
+            .style("fill", function(d){            
+                var value = d.properties[expressed];            
+                if(value) {                
+                    return colorScale(value);            
                 } else {                
                     return "#ccc";            
-                }    
-        });
-    }
+                } 
+            })
+            .on("mouseover", function(event, d) {
+                mouseOver(d, false);
+            })
+            .on("mousemove", function(event) {
+                popUP.style("top", (event.pageY - 10) + "px")
+                    .style("left", (event.pageX + 10) + "px");
+            })
+            .on("mouseout", function(event, d) {
+                mouseOut(d, false);
+});
+        }
+
+    
 })();

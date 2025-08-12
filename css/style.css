@@ -1,17 +1,38 @@
-/*Add CSS styles here*/
+/* Basic reset and box-sizing */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5f5; /* light gray */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+#container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
 .axis path,
 .axis line {
     fill: none;
-    stroke: black;
+    stroke: #999;
     stroke-width: 1px;
     shape-rendering: crispEdges;
 }
 
 .axis text {
     font-family: sans-serif;
-    font-size: 0.9em;
+    font-size: 0.8em;
+    fill: #999;
 }
-
 .title {
     font-family: sans-serif;
     font-size: 1.5em;
@@ -19,11 +40,27 @@
 }
 
 .counties {
-    stroke: #ffffff;
-    stroke-width: 1.5px;
-    stroke-linecap: round;
+    stroke: #ffff;
+    stroke-width: 1;
+    transition: stroke 0.2s ease;
 }
 
+.counties:hover,
+.bar:hover {
+    cursor: pointer;
+}
+
+.bar {
+    stroke: none;
+    opacity: 0.9;
+    transition: all 0.2s ease;
+}
+
+.bar:hover {
+    stroke: #f00c0c;
+    stroke-width: 2px;
+    opacity: 1;
+}
 .states {
     fill: #c7c7c7;
     stroke: #dadada;
@@ -43,11 +80,15 @@
     margin: 0;
 }
 
-.chartTitle {
-    font-size: 16px;
-    font-weight: bold;
-    fill: black;
+.mapChartTitle {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #222;
+  margin-bottom: 10px;
+  text-align: center;
 }
+
 
 .chartBackground {
     fill: rgb(255, 255, 255);
@@ -56,37 +97,29 @@
 .chartFrame {
     fill: none;
     stroke: #999;
-    stroke-width: 3px;
-    shape-rendering: crispEdges;
-}
-
-.axis path,
-.axis line {
-    fill: none;
-    stroke: #999;
     stroke-width: 1px;
     shape-rendering: crispEdges;
 }
-
-.axis text {
-    font-family: sans-serif;
-    font-size: 0.8em;
-    fill: #999;
+.axis-title {
+  font-family: Arial, sans-serif;
+  fill: #333;
+  font-weight: bold;
+  user-select: none;
 }
 
-body {
-    margin: 0;
-    padding: 0;
+.popUP {
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 10px 14px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  font-size: 13px;
+  color: #222;
+  pointer-events: none; 
 }
 
-#container {
-    display: flex;
-    flex-direction: row; /* side-by-side */
-    justify-content: center;
-    align-items: flex-start;
-    gap: 20px; /* spacing between map and chart */
-    padding: 20px;
-}
 svg {
     display: block;
     margin: 0;
